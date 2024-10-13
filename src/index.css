@@ -14,3 +14,12 @@
 *{
     font-family: 'Times New Roman';
 }
+
+main{
+    min-height: 82vh;
+}
+
+footer{
+    background-color: rgb(223,199,168) ;
+    padding: 10px;
+}
