@@ -1,0 +1,36 @@
+{
+   "_id":[
+    {
+        "registerId":"1SJ20EC116",
+        "studentName":"Harshitha K",
+        "FatherName":"Krishnappa",
+        "CollegeName":"SJC Institute of Technology Chickballapur",
+        "id": "116"
+    },
+    {
+       
+        "registerId":"1SJ20EC117",
+        "studentName":"Amrutha ",
+        "FatherName":"Suresh M N",
+        "CollegeName":"SJC Institute of Technology Chickballapur",
+        "id": "117"
+    },
+    {
+        
+        "registerId":"1SJ20EC118",
+        "studentName":"Monisha L",
+        "FatherName":"Anil",
+        "CollegeName":"SJC Institute of Technology Chickballapur",
+        "id": "118"
+    },{
+        
+        "registerId":"1SJ20EC119",
+        "studentName":"Rakshitha B A",
+        "FatherName":"Anjinamurthy B V",
+        "CollegeName":"SJC Institute of Technology Chickballapur",
+        "id": "119"
+
+        
+    }
+   ] 
+}
